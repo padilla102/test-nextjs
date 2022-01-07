@@ -1,0 +1,32 @@
+{
+  "name": "test-nextjs",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@jhon-acasa/components.blocks.footer": "^0.0.5",
+    "@jhon-acasa/components.blocks.nav": "^0.0.14",
+    "@jhon-acasa/components.themes.provider": "^0.0.5",
+    "@jhon-acasa/components.ui.button": "^0.0.6",
+    "@jhon-acasa/components.ui.icons": "^0.0.4",
+    "@mui/material": "^5.2.7",
+    "next": "12.0.7",
+    "next-transpile-modules": "^9.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sass": "^1.46.0"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.8",
+    "@types/react": "17.0.38",
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7",
+    "typescript": "4.5.4"
+  }
+}
